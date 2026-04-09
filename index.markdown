@@ -4,7 +4,7 @@
 
 layout: home
 ---
-<p style="font-size: 150%;"><b>>Welcome to the New York University – Ludwig Maximilian University of Munich 2026 workshop on the Materialities of Ancient Texts, hosted by the [Institute for the Study of the Ancient World](https://www.isaw.nyu.edu).</b></p>
+<p style="font-size: 150%;"><b>Welcome to the New York University – Ludwig Maximilian University of Munich 2026 workshop on the Materialities of Ancient Texts, hosted by the [Institute for the Study of the Ancient World](https://www.isaw.nyu.edu).</b></p>
 
 ![Indian Seals]({{ site.baseurl }}/images/indian_seals.jpg) <!-- CHANGED -->
 
