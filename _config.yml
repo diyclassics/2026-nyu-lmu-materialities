@@ -22,13 +22,18 @@ title: NYU-LMU Materialities of Ancient Texts Workshop 2026
 email: dr128@nyu.edu
 description: >- # this means to ignore newlines until "baseurl:"
  The online program for the 2026 New York University-Ludwig Maximilian University of Munich 2026 workshop on the Materialities of Ancient Texts, April 30-May 1, 2026. 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/2026-nyu-lmu-materialities" ### CHANGED
+url: "https://dmratzan.github.io" ### CHANGED
 twitter_username: 
 github_username:  
 
 # Build settings
 theme: minima
+header_pages: ### CHANGED
+  - day1.md
+  - day2.md
+  - papers.md
+  - z_about.md
 plugins:
   - jekyll-feed
 

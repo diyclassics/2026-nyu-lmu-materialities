@@ -6,7 +6,7 @@ layout: home
 ---
 ## Welcome to the New York University – Ludwig Maximilian University of Munich 2026 workshop on the Materialities of Ancient Texts, hosted by the [Institute for the Study of the Ancient World](https://www.isaw.nyu.edu).
 
-![Indian Seals](/images/indian_seals.jpg)
+![Indian Seals]({{ site.baseurl }}/images/indian_seals.jpg) <!-- CHANGED -->
 
 Wood Tablet, Double-Wedged Tablet, Wedge Covering Tablet, Seal, ca. 200-400 CE. Niya, Xinjiang, China. Ink on wood. Gandhāri in Kharoṣṭhi script. British Library, Or.8211/1508(A).
 
