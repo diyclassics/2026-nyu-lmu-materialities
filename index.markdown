@@ -12,8 +12,8 @@ layout: home
 
 <p style="font-size: 125%;">The workshop will take place on Thursday and Friday, April 30 and May 1, 2026 at ISAW (<a href= "https://maps.app.goo.gl/41uLc9NRLAYaUK2u7">15 E84th St</a>). The provisional program is now published.</p>
 
-<p style="font-size: 125%;"><b>Registration is required and space is limited.</b> If you wish to attend, please fill out <this href= "https://forms.gle/TCarATTu9ad4ot56A">this form</a> by <b>Tuesday, April 21, 2026</b>.</p>
+<p style="font-size: 125%;"><b>Registration is required and space is limited.</b> If you wish to attend, please fill out <a href= "https://forms.gle/TCarATTu9ad4ot56A">this form</a> by <b>Tuesday, April 21, 2026</b>.</p>
 
-<p style="font-size: 125%;">If you have any questions about the event or the program, please contact <David href= "https://isaw.nyu.edu/people/staff/david-m-ratzan">David M. Ratzan</a> at dr128 at nyu.edu.</p>
+<p style="font-size: 125%;">If you have any questions about the event or the program, please contact <a href= "https://isaw.nyu.edu/people/staff/david-m-ratzan">David M. Ratzan</a> at dr128 at nyu.edu.</p>
 
 
