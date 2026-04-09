@@ -10,9 +10,9 @@ categories: program
 
 <h3>Materiality, papyrology and empire</h3>
 
-#### <b>9:10</b>: [The Things We Leave Behind: Papyri, Materiality, and Documentary Practice Across the Greco-Roman World](/papers.html#stern) (Matthias Stern, LMU)
+#### <b>9:10</b>: [The Things We Leave Behind: Papyri, Materiality, and Documentary Practice Across the Greco-Roman World]({{ "papers.html" | relative_url }}#stern) (Matthias Stern, LMU)
 
-#### <b>9:50</b>: [Empire and individual on sherds of clay](/papers.html#hahn) (Michael Hahn, LMU)
+#### <b>9:50</b>: [Empire and individual on sherds of clay]({{ "papers.html" | relative_url }}#hahn) (Michael Hahn, LMU)
 
 
 #### <b>10:30: Coffee Break</b>
@@ -20,19 +20,19 @@ categories: program
 
 <h3>Materiality, classical literature and religion</h3>
 
-#### <b>11:00</b>: [Letters to the Gods? The Materiality of Writing Oracles](/papers.html#hinsch) (Moritz Hinsch, LMU)
+#### <b>11:00</b>: [Letters to the Gods? The Materiality of Writing Oracles]({{ "papers.html" | relative_url }}#hinsch) (Moritz Hinsch, LMU)
 
-#### <b>11:40</b>: [Materiality and intertextuality, or why we need to know how much a complete text of the <i>Iliad</i> cost](/papers.html#dmr) (David M. Ratzan, ISAW)
+#### <b>11:40</b>: [Materiality and intertextuality, or why we need to know how much a complete text of the <i>Iliad</i> cost]({{ "papers.html" | relative_url }}#dmr) (David M. Ratzan, ISAW)
 
-#### <b>12:20</b>: [Hearing the holy voice of Memnon, I missed you …”. The Memnon Colossi and Material culture](/papers.html#free) (Alexander Free, LMU)
+#### <b>12:20</b>: [Hearing the holy voice of Memnon, I missed you …”. The Memnon Colossi and Material culture]({{ "papers.html" | relative_url }}#free) (Alexander Free, LMU)
 
 #### <b>13:00: Lunch (for registered partcipants only)</b>
 
 <h3>Materiality and late antique documentary and administrative practices</h3>
 
-#### <b>14:10</b>: [Materiality of ancient papyrus petitions: A case study from 4th century Egypt](/papers.html#grossi) (Giulia Grossi, LMU)
+#### <b>14:10</b>: [Materiality of ancient papyrus petitions: A case study from 4th century Egypt]({{ "papers.html" | relative_url }}#grossi) (Giulia Grossi, LMU)
 
-#### <b>14:50</b>: [Cross meets Crescent: The materiality of Early Islamic documentary papyri and the pagarchs under Arab rule](/papers.html#koehler) (Younes Köhler, LMU)
+#### <b>14:50</b>: [Cross meets Crescent: The materiality of Early Islamic documentary papyri and the pagarchs under Arab rule]({{ "papers.html" | relative_url }}#koehler) (Younes Köhler, LMU)
 
 #### <b>15:30: Coffee Break</b>
 
