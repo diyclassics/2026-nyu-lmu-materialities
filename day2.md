@@ -42,4 +42,4 @@ categories: program
 
 #### <b>16:45</b> Conlcuding remakrs on the workshop (Alexander Free, LMU)
 
-#### <b>19:15: Reception</b>
+#### <b>17:15: Reception</b>
