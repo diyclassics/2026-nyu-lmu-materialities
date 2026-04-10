@@ -22,7 +22,7 @@ categories: program
 
 #### <b>11:00</b>: [Letters to the Gods? The Materiality of Writing Oracles]({{ "papers.html" | relative_url }}#hinsch) (Moritz Hinsch, LMU)
 
-#### <b>11:40</b>: [Materiality and intertextuality, or why we need to know how much a complete text of the <i>Iliad</i> cost]({{ "papers.html" | relative_url }}#dmr) (David M. Ratzan, ISAW)
+#### <b>11:40</b>: [Materiality and intertextuality, or why it matters that we know how much books cost]({{ "papers.html" | relative_url }}#dmr) (David M. Ratzan, ISAW)
 
 #### <b>12:20</b>: [Hearing the holy voice of Memnon, I missed you …”. The Memnon Colossi and Material culture]({{ "papers.html" | relative_url }}#free) (Alexander Free, LMU)
 
