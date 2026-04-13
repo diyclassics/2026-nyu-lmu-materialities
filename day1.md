@@ -10,7 +10,7 @@ categories: program
 
 <h3>Ancient China</h3>
 
-#### <b>9:10</b>: [Woven into Textile, Cast onto Bronze: Inscribed Objects, Everyday Life, and Empire in Han China]({{ "papers.html" | relative_url }}#tseng) (Lillian Tseng, ISAW)
+#### <b>9:10</b>: [Inscribed Objects, Empire, and Everyday Life in Han China]({{ "papers.html" | relative_url }}#tseng) (Lillian Tseng, ISAW)
 
 #### <b>9:50</b>: [War and Writing in Pre-Imperial China: Inscribed Weapons in Archaeological Context]({{ "papers.html" | relative_url }}#khayutina) (Maria Khayutina, LMU)
 
