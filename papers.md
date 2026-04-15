@@ -13,7 +13,7 @@ A systematic count of the excavated clay tablets bearing cuneiform “canonical�
 
 <h4><b><a id="free"></a>Alexander Free (LMU):</b> “Hearing the holy voice of Memnon, I missed you …”. The Memnon Colossi and Material Culture</h4>
 
-Abstract to come.
+The Colossi of Memnon are two monumental seated figures depicting Pharaoh Amenhotep III, which originally stood on either side of the entrance to his mortuary and memorial temple in West Thebes. By Roman times, this temple no longer existed, and the two seated sculptures were viewed as freestanding colossal statues. The northern of the two figures is said to have emitted a sound always within a few hours before sunrise, a phenomenon reported by numerous Greco-Roman authors from Strabo to Pliny the Elder to Tacitus, and which led to the statues being personified as Memnon, the son of Eos, the goddess of dawn. Oracular powers were attributed to the pair of statues, and a large number of visitors left inscriptions on the colossi. The talk will examine some of these inscriptions and raise the question of how the objects themselves influenced the texts left on them. It will explore how the Colossi of Memnon “speak” and how their visitors engage in dialogue with them. It will also demonstrate how the statues’ tonality, monumentality, and the texts inscribed upon them give them symbolic significance.
 
 <h4><b><a id="grossi"></a>Giulia Grossi (LMU):</b> Materiality of ancient papyrus petitions: A case study from 4 th century Egypt</h4>
 
