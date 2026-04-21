@@ -16,7 +16,7 @@ categories: program
 
 #### <b>10:30:	Coffee Break</b>
 
-<h3>late Bronze and Archaic Eastern Mediterranean</h3>
+<h3>Late Bronze and Archaic Eastern Mediterranean</h3>
 
 #### <b>11:00</b>:	[Materiality of Writing in Post-Hittite Syro-Anatolia: A Quantitative Analysis of Monumental Inscribed Objects]({{ "papers.html" | relative_url }}#mavromatis) (Manolis Mavromatis, ISAW)
 
