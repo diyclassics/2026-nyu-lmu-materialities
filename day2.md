@@ -40,6 +40,6 @@ categories: program
 
 #### <b>16:00</b>: Reflections on the proceedings (Jonathan Leite, Lauren Malkoun, Anna Selden, Greg Woolf, ISAW)
 
-#### <b>16:45</b> Conlcuding remakrs on the workshop (Alexander Free, LMU)
+#### <b>16:45</b> Concluding remarks on the workshop (Alexander Free, LMU)
 
 #### <b>17:15: Reception</b>
