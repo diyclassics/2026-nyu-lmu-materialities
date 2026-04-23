@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Registration is closed"
-date:   2026-04-08 14:57:07 -0400
+date:   2026-04-22 14:57:07 -0400
 categories: update
 ---
 Registration for the 2026 NYU-LMU workshop on the Materialities of Ancient Texts is now closed
