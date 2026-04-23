@@ -16,23 +16,23 @@ categories: program
 
 #### <b>10:30:	Coffee Break</b>
 
-<h3>Late Bronze and Archaic Eastern Mediterranean</h3>
+<h3>Ancient Near East</h3>
 
-#### <b>11:00</b>:	[Materiality of Writing in Post-Hittite Syro-Anatolia: A Quantitative Analysis of Monumental Inscribed Objects]({{ "papers.html" | relative_url }}#mavromatis) (Manolis Mavromatis, ISAW)
+#### <b>11:00</b>: [Estimating textual abundance in antiquity: the case of the cuneiform extispicy omen corpus]({{ "papers.html" | relative_url }}#frazer) (Mary Frazer, LMU)
 
-#### <b>11:40</b>:	[Re-materializing the Alphabet: Embodied and Material Entanglements in Phrygian Writing Practice(s)]({{ "papers.html" | relative_url }}#stefanou) (Christina Stefanou, ISAW)
+#### <b>11:40</b>: [Writing on the Body: Inscriptions on the Early Dynastic Mesopotamian Statues]({{ "papers.html" | relative_url }}#song) (Yu Song, ISAW)
 
-#### <b>12:20</b>:	[Inscribed Armor, Personhood, and the Materiality of Writing in Archaic Crete]({{ "papers.html" | relative_url }}#kotsonas) (Antonis Kotsonas, ISAW)
+#### <b>12:20</b>: [Crafting or Writing or Both? The Competences of the Stonecutter in Archaic Uruk]({{ "papers.html" | relative_url }}#beate) (Beate Pongratz-Leisten, ISAW)
 
 #### <b>13:00:	Lunch (for registered partcipants only)</b>
 
-<h3>Ancient Near East</h3>
+<h3>Late Bronze and Archaic Eastern Mediterranean</h3>
 
-#### <b>14:00</b>: [Estimating textual abundance in antiquity: the case of the cuneiform extispicy omen corpus]({{ "papers.html" | relative_url }}#frazer) (Mary Frazer, LMU)
+#### <b>14:00</b>:	[Materiality of Writing in Post-Hittite Syro-Anatolia: A Quantitative Analysis of Monumental Inscribed Objects]({{ "papers.html" | relative_url }}#mavromatis) (Manolis Mavromatis, ISAW)
 
-#### <b>14:40</b>: [Writing on the Body: Inscriptions on the Early Dynastic Mesopotamian Statues]({{ "papers.html" | relative_url }}#song) (Yu Song, ISAW)
+#### <b>14:40</b>:	[Re-materializing the Alphabet: Embodied and Material Entanglements in Phrygian Writing Practice(s)]({{ "papers.html" | relative_url }}#stefanou) (Christina Stefanou, ISAW)
 
-#### <b>15:20</b>: [Crafting or Writing or Both? The Competences of the Stonecutter in Archaic Uruk]({{ "papers.html" | relative_url }}#beate) (Beate Pongratz-Leisten, ISAW)
+#### <b>15:20</b>:	[Inscribed Armor, Personhood, and the Materiality of Writing in Archaic Crete]({{ "papers.html" | relative_url }}#kotsonas) (Antonis Kotsonas, ISAW)
 
 #### <b>16:00:	Coffee Break</b>
 
