@@ -22,7 +22,7 @@ categories: program
 
 #### <b>11:40</b>: [Writing on the Body: Inscriptions on the Early Dynastic Mesopotamian Statues]({{ "papers.html" | relative_url }}#song) (Yu Song, ISAW)
 
-#### <b>12:20</b>: [Crafting or Writing or Both? The Competences of the Stonecutter in Archaic Uruk]({{ "papers.html" | relative_url }}#beate) (Beate Pongratz-Leisten, ISAW)
+#### <b>12:20</b>: [Between Material and Materiality: The Blau Stones in Historical-Epistemological Perspective]({{ "papers.html" | relative_url }}#beate) (Beate Pongratz-Leisten, ISAW)
 
 #### <b>13:00:	Lunch (for registered partcipants only)</b>
 
